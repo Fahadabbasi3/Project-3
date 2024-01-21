@@ -1,0 +1,30 @@
+.centered-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    /* border-radius: 50%; */
+}
+.set{
+    border: 1px solid rebeccapurple;
+    padding:3px 0px;
+    border-radius: 5%;
+}
+#position{
+    color:aqua
+}
+.card-img-top{
+    
+    height: 270px;
+    /* border-radius: 100%; */
+}
+h1{
+    height: auto;
+    width: auto;
+    background-color: antiquewhite;
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px; 
+}
